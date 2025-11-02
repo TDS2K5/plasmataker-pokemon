@@ -8,4 +8,3 @@ ConfigModel {
         source: "configGeneral.qml"
     }
 }
-.
